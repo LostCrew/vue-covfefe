@@ -7,7 +7,7 @@
     root.VueCovfefe = factory()
   }
 }(this, function () {
-  var VueCovfefe = {
+  return {
     install: function (Vue) {
       Vue.directive('covfefe', {
         bind: function (el) {
@@ -20,5 +20,4 @@
       })
     }
   }
-  return VueCovfefe
 }))
