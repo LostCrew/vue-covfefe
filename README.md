@@ -1,5 +1,10 @@
 # vue-covfefe
 
+[![Travis](https://img.shields.io/travis/LostCrew/vue-covfefe.svg)](Build)
+[![David](https://img.shields.io/david/dev/LostCrew/vue-covfefe.svg)](DevDependencies)
+[![npm](https://img.shields.io/npm/l/vue-covfefe.svg)](License)
+![Donald Trump](https://img.shields.io/badge/donaldtrump-approved-brightgreen.svg)
+
 > Cofveve directive for Vue.js
 
 ## Install
