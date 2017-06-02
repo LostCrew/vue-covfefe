@@ -1,0 +1,20 @@
+{
+  "name": "vue-covfefe",
+  "version": "0.1.0",
+  "description": "Cofveve directive for Vue.js",
+  "author": "Emanuele Marchi <emanuele@lostcrew.it>",
+  "homepage": "https://github.com/LostCrew/vue-covfefe",
+  "keywords": ["donald", "trump", "covfefe", "coverage", "vue", "vuejs", "javascript", "directive"],
+  "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/LostCrew/vue-covfefe.git"
+  },
+  "bugs": "https://github.com/LostCrew/vue-covfefe/issues",
+  "contributors": [],
+  "main": "index.js",
+  "dependencies": {},
+  "engines": {
+    "node": ">=6"
+  }
+}
