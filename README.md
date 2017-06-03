@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/npm/l/vue-covfefe.svg)](License)
 ![Donald Trump](https://img.shields.io/badge/donaldtrump-approved-brightgreen.svg)
 
-> Cofveve directive for Vue.js
+> Covfefe directive for Vue.js
 
 ## Install
 
@@ -34,3 +34,15 @@ Vue.use(VueCovfefe)
 ```
 Despite the constant negative press covfefe
 ```
+
+## Motivation
+
+[Donald Trump's #covfefe tweet](https://archive.is/f7UL3)
+
+## Other covfefe
+
+* [covfefe](https://github.com/rgbkrk/covfefe) - JavaScript
+* [pycovfefe](https://bitbucket.org/petersanchez/pycovfefe) - Python
+* [covfefe.net](https://github.com/igeligel/covfefe.net) - .NET
+* [covfefe-script](https://github.com/virgilvox/covfefe-script) - CovfefeScript
+* [covfefe-ipsum](https://github.com/Sequoia/covfefe-ipsum) - JavaScript

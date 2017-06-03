@@ -1,7 +1,7 @@
 {
   "name": "vue-covfefe",
   "version": "0.1.0",
-  "description": "Cofveve directive for Vue.js",
+  "description": "Covfefe directive for Vue.js",
   "author": "Emanuele Marchi <emanuele@lostcrew.it>",
   "homepage": "https://github.com/LostCrew/vue-covfefe",
   "keywords": [
@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "jest": "^20.0.4",
+    "standard": "^10.0.2",
     "vue": "^2.3.3"
   },
   "scripts": {
