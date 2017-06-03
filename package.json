@@ -32,7 +32,11 @@
     "vue": "^2.3.3"
   },
   "scripts": {
-    "coverage": "jest --coverage",
-    "test": "jest"
+    "lint": "standard",
+    "test": "npm run lint && jest",
+    "covfefe": "npm run test -- --coverage"
+  },
+  "standard": {
+    "globals": ["define", "it", "expect"]
   }
 }

@@ -1,7 +1,7 @@
 const Vue = require('vue')
 const VueCovfefe = require('./index')
-Vue.use(VueCovfefe)
 
+Vue.use(VueCovfefe)
 const covfefe = Vue.options.directives.covfefe
 
 it('append ` covfefe` on bind', () => {
